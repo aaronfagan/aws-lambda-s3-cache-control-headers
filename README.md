@@ -1,4 +1,4 @@
-# How To: Configure AWS Lambda to Automatically Set Cache-Control Headers on S3 Objects
+# Configure AWS Lambda to Automatically Set Cache-Control Headers on S3 Objects
 By Aaron Fagan
 
 ## Further Information
