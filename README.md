@@ -1,4 +1,3 @@
-![HitCount](http://hits.dwyl.io/aaronfagan/aws-lambda-s3-cache-control-headers.svg)
 # Configure AWS Lambda to Automatically Set Cache-Control Headers on S3 Objects
 Automatically set cache-control headers on object that are uplaoded, or modified in Amazon S3. Useful when using Amazon CloudFront as your CDN.
 
