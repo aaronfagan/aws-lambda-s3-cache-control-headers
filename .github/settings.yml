@@ -1,6 +1,6 @@
 repository:
   name: aws-lambda-s3-cache-control-headers
-  description: null
+  description: Configure AWS Lambda to Automatically Set Cache-Control Headers on S3 Objects.
   homepage: null
   default_branch: master
   private: false
