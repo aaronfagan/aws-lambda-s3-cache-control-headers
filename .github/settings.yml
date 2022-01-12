@@ -2,7 +2,7 @@ repository:
   name: 'aws-lambda-s3-cache-control-headers'
   description: 'Configure AWS Lambda to Automatically Set Cache-Control Headers on S3 Objects.'
   homepage: 'https://www.aaronfagan.ca/blog/2017/how-to-configure-aws-lambda-to-automatically-set-cache-control-headers-on-s3-objects/'
-  default_branch: 'master'
+  default_branch: 'main'
   private: false
   has_issues: true
   has_wiki: false
