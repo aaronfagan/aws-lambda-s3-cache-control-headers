@@ -3,6 +3,3 @@ Automatically set cache-control headers on object that are uplaoded, or modified
 
 ## Instructions
 [See blog article.](https://www.aaronfagan.ca/blog/2017/how-to-configure-aws-lambda-to-automatically-set-cache-control-headers-on-s3-objects/)
-
-# Contributors
-* Aaron Fagan - [Github](https://github.com/aaronfagan), [Website](https://www.aaronfagan.ca/)
